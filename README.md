@@ -1,1 +1,1 @@
-My first readme updated in github
+My first readme updated in git-hub
